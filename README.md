@@ -1,3 +1,5 @@
+https://github.com/renovatebot/renovate/discussions/23164
+
 # Renovate ignores helmfile.yaml.gotmpl
 
 Helmfile moves to making `helmfile.yaml.gotmpl` as default file to emphasize
