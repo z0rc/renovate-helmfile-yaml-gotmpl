@@ -7,6 +7,6 @@ releases:
 - name: prometheus
   namespace: monitoring
   chart: prometheus-community/kube-prometheus-stack
-  version: 47.1.0
+  version: 51.10.0
   values:
   - test: test
